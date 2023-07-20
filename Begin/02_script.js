@@ -1,0 +1,1 @@
+alert("using script in other file");
